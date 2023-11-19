@@ -7,7 +7,7 @@
 
 >软件```PictureToPDF```下载地址
 
-[点此下载](https://lqsymichaelluo.github.io/PictureToPDF_v1.1.apk)
+[点此下载](https://github.moeyy.xyz/https://raw.githubusercontent.com/LQSYMichaelLuo/LQSYMichaelLuo.github.io/main/PictureToPDF_v1.1.apk)
 
 
 
