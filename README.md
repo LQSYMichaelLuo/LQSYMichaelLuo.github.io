@@ -10,6 +10,6 @@
 
 >软件```PictureToPDF```下载地址
 
-[点此下载](https://raw.fgit.cf/LQSYMichaelLuo/LQSYMichaelLuo.github.io/main/PictureToPDF_v1.2.apk )
+[点此下载](https://github.com/LQSYMichaelLuo/LQSYMichaelLuo.github.io/blob/main/PictureToPDF_v1.2.apk)
 
 >咱就是说，虽然网页确实写得简陋，但是软件一点也不简陋🌚
